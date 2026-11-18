@@ -45,7 +45,7 @@ const nulldex = {
 
 | Project | What it is | Status |
 |---|---|---|
-| [**nulldex.net**](https://github.com/nulldex/nulldex.net) | The studio website. Hand-written HTML/CSS/JS, self-hosted. | ✅ live |
+| [**nulldex.net**](https://github.com/nulldex/nulldex.net) | The studio website, in English and Croatian. | ✅ live |
 | **Meal Planner** | Plan your week, get the grocery list automatically. Free, no account, works offline. | 🔨 in development |
 | **Browser game** | Something quick and chaotic that's fun to share. | 💡 planned |
 
