@@ -47,19 +47,33 @@ const nulldex = {
 |---|---|---|
 | [**nulldex.net**](https://github.com/nulldex/nulldex.net) | The studio website, in English and Croatian. | ✅ live |
 | [**nulldex-administrative-website**](https://github.com/nulldex/nulldex-administrative-website) | Self-hosted admin panel: dashboard, inbox for your own domain, privacy-friendly analytics and a 2FA-protected web console. | ✅ in use |
-| **Meal Planner** | Plan your week, get the grocery list automatically. Free, no account, works offline. | 🔨 in development |
+| [**Plately**](https://plately.nulldex.net) | Meal planner: plan your week, get the shopping list automatically. Croatian/Balkan recipes, free, no account, works offline. Web + Android. | 🌐 web live · 📱 Android in testing |
 | **Browser game** | Something quick and chaotic that's fun to share. | 💡 planned |
 
 ### 🧰 Tools I use
 
+**Web**  
 ![HTML](https://img.shields.io/badge/HTML-111?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-111?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react&logoColor=white)
+
+**Mobile apps (Android APK / Play Store)**  
+![React Native](https://img.shields.io/badge/React%20Native-111?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-111?style=flat-square&logo=expo&logoColor=white)
+![EAS Build](https://img.shields.io/badge/EAS%20Build-111?style=flat-square&logo=expo&logoColor=white)
+![Android](https://img.shields.io/badge/Android-111?style=flat-square&logo=android&logoColor=white)
+
+**Backend & servers**  
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-111?style=flat-square&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-111?style=flat-square&logo=caddy&logoColor=white)
+![Vultr](https://img.shields.io/badge/Vultr-111?style=flat-square&logo=vultr&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=white)
 
 ### 📫 Work with me
 
