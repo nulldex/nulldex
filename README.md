@@ -46,7 +46,7 @@ const nulldex = {
 | Project | What it is | Status |
 |---|---|---|
 | [**nulldex.net**](https://github.com/nulldex/nulldex.net) | The studio website, in English and Croatian. | ✅ live |
-| [**nulldex-inbox**](https://github.com/nulldex/nulldex-inbox) | Self-hosted email inbox for your own domain. Cloudflare in, Brevo out, Node + SQLite in between. | ✅ in use |
+| [**nulldex-administrative-website**](https://github.com/nulldex/nulldex-administrative-website) | Self-hosted admin panel: dashboard, inbox for your own domain, privacy-friendly analytics and a 2FA-protected web console. | ✅ in use |
 | **Meal Planner** | Plan your week, get the grocery list automatically. Free, no account, works offline. | 🔨 in development |
 | **Browser game** | Something quick and chaotic that's fun to share. | 💡 planned |
 
